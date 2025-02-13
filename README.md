@@ -2,7 +2,7 @@ This is a data repository with all the geometries included in the paper "Acceler
 
 Two experiments have been performed on this paper:
  
-- A comparison between a Fortran implementation and the PostGIS implementation. Six geometries have been used, and they can be found in STL format in the meshes folder.
+- A comparison between a Fortran implementation and the PostGIS implementation. Six geometries have been used, and they can be found in STL format in the *meshes* folder.
 - A performance study of the Cassegrain reflector that was only performed with PostGIS. The whole set of meshes created with the same object and meshed with a distinct number of facets can be found in STL format in the *cassegrain_reflector* folder.
 
 Apart from this, the *observation_points* folder provides *txt* files with the location of the 2500 observation points used on each experiment.
